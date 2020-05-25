@@ -58,6 +58,8 @@ SubProblems :<br>
 5) [Minimum Jumps to reach end](https://github.com/skm2000/Dynamic-Programming/blob/master/Minimum_Jumps_To_Reach_End.cpp).<br>
 6) [Box Stacking Problem](https://github.com/skm2000/Dynamic-Programming/blob/master/Box_Stacking_Problem.cpp).<br>
 7) [Longest Bitonic Sequence](https://github.com/skm2000/Dynamic-Programming/blob/master/BitonicSequence.cpp).<br><br>
+8) [3 segment](#).<br>
+
 
 **Parent Problem** : [*Count Distinct SubSequences*](https://github.com/skm2000/Dynamic-Programming/blob/master/Count_Distinct_Subsequences.cpp)<br>
 
